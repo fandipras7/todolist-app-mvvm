@@ -118,12 +118,18 @@ REACT_APP_API_URL = [API_URL]
 <table>
  
   <tr>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659145281/portofolio/blanja/Login_hban4h.png" alt="Login Page" width=100%></td>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659340375/portofolio/blanja/Register_ueumau.png" width=100%/></td>
+    <td><image src="https://res.cloudinary.com/dl5zfuxp9/image/upload/v1690728968/samples/todo-app/Screenshot_2023-07-30_at_21.52.24_ujpgnz.png" width=100%></td>
+    <td><image src="https://res.cloudinary.com/dl5zfuxp9/image/upload/v1690728983/samples/todo-app/Screenshot_2023-07-30_at_21.55.14_k9lt2z.png" width=100%/></td>
+    <td><image src="https://res.cloudinary.com/dl5zfuxp9/image/upload/v1690728997/samples/todo-app/Screenshot_2023-07-30_at_21.55.31_wgvtrk.png" width=100%/></td>
+    <td><image src="https://res.cloudinary.com/dl5zfuxp9/image/upload/v1690729008/samples/todo-app/Screenshot_2023-07-30_at_21.55.42_utgjns.png" width=100%/></td>
+    <td><image src="https://res.cloudinary.com/dl5zfuxp9/image/upload/v1690729271/samples/todo-app/Screenshot_2023-07-30_at_22.01.01_uncnel.png" width=100%/></td>
   </tr>
    <tr>
-    <td>Login Page</td>
-    <td>Register Page</td>
+    <td>Dashboard</td>
+    <td>List Activity</td>
+    <td>Empty Todo</td>
+    <td>Detail Todo</td>
+    <td>Add Todo</td>
   </tr>
 </table>
       
@@ -144,7 +150,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Todo App_API`](https://github.com/fandipras7/blanjaApiV2)
+:rocket: [`Todo App_API`](https://github.com/fandipras7/todo-app-service)
 
 :rocket: [`Frontend TODO APP`](https://github.com/fandipras7/todolist-app-mvvm)
 
